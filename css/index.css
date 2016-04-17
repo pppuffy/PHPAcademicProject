@@ -1,0 +1,80 @@
+
+
+/***************** Headers Footers Conten t*****************/
+#wrapper{
+	width:100%;
+	height:100%;
+	margin:none;
+	
+}
+#footer{
+	clear:both;
+	width:100%;
+	height:40px;
+	border-top:1px solid #A9A9A9;
+	width:100%;
+	text-align:center;
+	padding:9px;
+}
+#footer-content{
+	margin:auto;
+	
+}
+#content{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:60px;
+	
+	height:100%;
+	width:65%;
+	clear:both;		
+}
+/***************** Headers Footers Content *****************/
+
+
+
+
+/***************** 中间部分 *****************/
+
+#blog-header,#interview-header{
+	border-bottom:1px solid #D8BFD8;
+	margin-bottom:5px;
+	padding-bottom:3px;
+}
+
+#blog,#interview,#quote{
+	margin-bottom:40px;
+
+}
+#quoteclass1{
+	float:left;
+	width:70%;
+}
+#quoteclass2{
+	float:left;
+}
+.blog-pic{
+	margin-top:20px;
+}
+.blog-pic-color{
+	color:white ;
+	
+}
+
+/***************** 中间部分 *****************/
+
+/***************** Responsive Part *****************/
+@media screen and (min-width:200px)and (max-width:1700px)
+	{
+       /***************** Headers Footers Content *****************/
+		
+		
+	   /***************** Headers Footers Content *****************/
+		
+		
+	   /***************** 中间部分 *****************/
+	   /***************** 中间部分 *****************/
+		
+		
+	}
+/***************** Responsive Part *****************/

@@ -1,0 +1,39 @@
+
+
+#faq-header-left{
+	float:left;
+}
+
+#faq-header-right{
+	float:left;
+	margin-top:30px;
+}
+
+#question1,#question2,#question3,#question4,#question5,#question6,#question7,#question8,#question9,#question10{
+
+	padding:10px;
+	border-bottom:1px solid #A9A9A9;
+}
+
+
+.bookflex-header{
+	font-family:Arial;
+	font-size:25px;	
+	margin:10px;
+}
+
+
+@media screen and (min-width:200px)and (max-width:1700px)
+	{
+	/*****************
+Headers Footers Content
+*****************/
+		
+		
+	/*****************
+Headers Footers Content
+*****************/
+		
+		
+		
+	}

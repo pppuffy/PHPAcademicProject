@@ -1,0 +1,46 @@
+
+/*****************
+Headers Footers Content
+*****************/
+
+
+
+.bookflextop{
+	border-bottom:1px solid red;
+}	
+
+
+.bookflex-header{
+	font-family:Arial;
+	font-size:25px;	
+	margin:10px;
+}
+#introduction,#design,#designObject,#prerequisites,#recommend,#sample,#codec{
+	padding:10px;
+	border-bottom:1px solid #A9A9A9;
+}
+
+#seminar-header-left{
+	float:left;
+}
+
+#seminar-header-right{
+	float:left;
+	margin-top:80px;
+}
+
+
+
+
+@media screen and (min-width:200px)and (max-width:1700px)
+	{
+	/*****************
+Headers Footers Content
+*****************/
+
+	/*****************
+Headers Footers Content
+*****************/
+		
+		
+	}

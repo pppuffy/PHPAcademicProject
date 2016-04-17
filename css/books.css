@@ -1,0 +1,70 @@
+
+.bookflextop{
+	border-bottom:1px solid red;
+}	
+
+#introduction,#chapters,#buy{
+		border-bottom:1px solid #A9A9A9 ;
+		
+		padding:5px;
+	}
+
+.bookflex-header,.bookjava-header{
+	font-family:Arial;
+	font-size:25px;	
+	margin:10px 10px 10px 0;
+}
+	
+
+
+.red{
+	color:red;
+}
+
+#bookjava3or4{
+	margin:30px;
+	
+}
+
+#bookjava3or4 ul li{
+	margin:20px;
+	font-size:20px;
+	
+}
+#introduction2,#buybook,#electronicBook,#code{
+		border-bottom:1px solid #A9A9A9 ;
+		padding:5px;
+	}
+
+#introduction3,#buybook3,#chapter3,#code3{
+	border-bottom:1px solid #A9A9A9 ;
+		padding:5px;
+}
+
+#introductionc,#buyc,#cdc,#strategyc,#electronicc,#codec{
+	border-bottom:1px solid #A9A9A9 ;
+		padding:5px;
+}
+
+#otherone,#othercplus,#otherinsideout,#otherblack,#otherusing,#othercomputer{
+	border-bottom:1px solid #A9A9A9 ;
+		padding:5px;
+}
+
+
+
+
+
+
+@media screen and (min-width:200px)and (max-width:1700px)
+	{
+	/*****************
+Headers Footers Content
+*****************/
+		
+	/*****************
+Headers Footers Content
+*****************/
+		
+		
+	}
